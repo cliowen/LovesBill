@@ -57,7 +57,7 @@ const Header: React.FC = () => {
               letterSpacing: '0.5px',
             }}
           >
-            记账本
+            哆啦A梦记账本
           </Typography>
         </Box>
         <Box sx={{ flexGrow: 1 }} />
